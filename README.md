@@ -1,4 +1,3 @@
-
 ## BUILDPACK
 
 * [`FFMPEG`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
@@ -25,18 +24,12 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
-* [`ArullOfc`](https://github.com/Warikrr)
-* [`Naze Dev`](https://github.com/nazedev)
+* Tuhan Ku
+* Orang Tua Ku
+* Yg Udah Nonton Video Ku
+* Kalian Semua
+* Subscriber Ku
+* Teman-Teman Ku
 * [`AnggaXyzZ`](https://github.com/AnggaXyzZ)
 
 ```Thanks to all who have participated in the development of this script```
